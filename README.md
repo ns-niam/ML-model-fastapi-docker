@@ -1,4 +1,4 @@
-# 🚀 ML Model Deployment with FastAPI & Docker
+#  ML Model Deployment with FastAPI & Docker
 
 ## 📌 Overview
 
@@ -95,7 +95,7 @@ Check if API is running
 
 ```
 {
-  "message": "ML API is running successfully 🚀"
+  "message": "ML API is running successfully "
 }
 ```
 
