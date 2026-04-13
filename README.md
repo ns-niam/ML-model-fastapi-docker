@@ -156,6 +156,7 @@ Check if API is running
 ## 👨‍💻 Author
 
 **Niam** 
+
 AI Engineering Student
 
 ---
